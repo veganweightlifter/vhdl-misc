@@ -1,1 +1,1 @@
-# vhdl-misc
+# Miscellaneous files from learning VHDL
